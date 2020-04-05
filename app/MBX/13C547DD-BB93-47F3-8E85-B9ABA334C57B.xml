@@ -1,0 +1,71 @@
+﻿<mockup version="5.3" minAllowVersion="5.3" ID="13C547DD-BB93-47F3-8E85-B9ABA334C57B" platform="MtMobile" defaultW="1080" defaultH="1960" measureW="1080" measureH="1960" screenOrientation="MoPortrait" mobileScreenScale="1.77777779102325" clipArea="(0,0,0,0)">
+  <controls controlCount="6">
+    <control controlID="DA986D53-F477-4747-A1BE-AD780061A52E" controlTypeID="Shape" x="0" y="0" w="1080" h="438" zOrder="0">
+      <color>4294927872</color>
+      <borderColor>6710886</borderColor>
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Normal" weight="400" isBold="False" isItalic="False"/>
+      <textColor>4294927872</textColor>
+      <textSize>14</textSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="230179DE-21A1-404A-B123-5018895A0394" controlTypeID="Shape" x="0" y="0" w="1080" h="862" zOrder="1">
+      <color>402653183</color>
+      <borderColor>6710886</borderColor>
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Normal" weight="400" isBold="False" isItalic="False"/>
+      <textSize>14</textSize>
+      <selectedIndex>-1</selectedIndex>
+      <shapeBorderType>SbTriangle</shapeBorderType>
+      <triangleType>TdNinety</triangleType>
+    </control>
+    <control controlID="98CEA29F-596F-4285-B67F-6E2152CBC11A" controlTypeID="Label" x="100" y="279" w="522" h="96" zOrder="2">
+      <font family="Segoe+UI" displayName="Segoe+UI_%26_Bold" postScript="" weightStyle="Bold" weight="700" isBold="True" isItalic="False"/>
+      <text>Request+Details</text>
+      <textColor>4294967295</textColor>
+      <textSize>72</textSize>
+      <lineSpacing>0</lineSpacing>
+      <textStyles>[fsBold]</textStyles>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="BD587114-2DF6-47BC-B95F-283CB6D40F3C" controlTypeID="Circle" x="772" y="348" w="177" h="177" zOrder="3">
+      <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="0">
+        <link targetPageID="ADF44010-2035-4578-8B40-CF65FD5CDC48" linkType="ltPageLink" isApplyIncludePage="False" title="Edit+Request">
+          <area shape="0" alt="" ID="{E50A1448-E7E3-4C30-A737-A53DA63883D8}" coords="(0,0,177,177)"/>
+        </link>
+      </links>
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Normal" weight="400" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+      <textSize>14</textSize>
+      <selectedIndex>-1</selectedIndex>
+      <shapeBorderType>SbEllipse</shapeBorderType>
+      <dashMode>SdDash</dashMode>
+    </control>
+    <control controlID="B968C7B0-ADD8-40AF-A26E-BE997B8A6E69" controlTypeID="Icon" x="821" y="396" w="80" h="80" zOrder="4">
+      <icon>
+        <ID/>
+        <iconFontName>jdIonicons</iconFontName>
+        <iconCode>62334</iconCode>
+      </icon>
+      <URL>69A4D1E5CE13432C6A4F579026917C6A.svg</URL>
+    </control>
+    <control controlID="730F76FA-28A3-499E-9D91-48E7EB9FD0D7" controlTypeID="Icon" x="10" y="10" w="115" h="115" zOrder="5">
+      <color>4294967295</color>
+      <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="0">
+        <link targetPageID="BFFD142F-C3A3-4835-82AB-DA24E2196FDF" linkType="ltPageLink" isApplyIncludePage="False" title="User+Home">
+          <area shape="0" alt="" ID="{F6922A9B-A196-41E4-9082-865E9EC7279D}" coords="(0,0,115,115)"/>
+        </link>
+      </links>
+      <icon>
+        <ID/>
+        <iconFontName>jdIonicons</iconFontName>
+        <iconCode>62415</iconCode>
+      </icon>
+      <URL>D6859759E093AABA6D618DD6AA733504.svg</URL>
+    </control>
+  </controls>
+  <param>
+    <backgroundColor>4294967295</backgroundColor>
+    <fontSize>0</fontSize>
+    <fontFamily/>
+    <guideLines/>
+  </param>
+</mockup>
