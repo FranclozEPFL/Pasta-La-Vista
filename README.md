@@ -4,8 +4,3 @@
 3. If you need further assistance, please shoot us an email at support@jongde.com.
 
 ### Previews can also be executed using the executables inside the zip.
-
-## Moving Forward 
-From this point onwards, our main focus is to:
-1. Show the mock application to several users to locate the major flaws in the design to polish the UI further.
-2. Figure out how the map design should work to provide easy and intuitive work for users.
