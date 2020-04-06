@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" standalone="no"?>
+<svg width="64" height="64" viewBox="0 0 331 384" version="1.1" xmlns="http://www.w3.org/2000/svg">
+  <path d="M331 325v0v-133v0c0 -5 -5 -10 -10 -10v0h-43c-7 -47 -42 -84 -87 -94v-65h51v0c7 0 13 -6 13 -13s-6 -13 -13 -13v0v0h-153v0c-7 0 -13 6 -13 13s6 13 13 13h51v65c-45 10 -81 47 -88 94h-42v0c-5 0 -10 5 -10 10v0v0v0v0v133v0v1v0v0c0 5 5 9 10 9h41v36v1 c0 8 6 14 14 15v0h199v0h1c8 0 15 -7 15 -15v-1v-36h41v0c5 0 10 -5 10 -10zM51 208v102h-25v-102h25zM305 208v102h-25v-102h25z" transform="matrix(1,0,0,-1,0,384)"/>
+</svg>
